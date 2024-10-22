@@ -29,7 +29,7 @@ function Navbar({ className }: { className?: string }) {
                             Songwriting
                         </HoveredLink>
                         <HoveredLink href="/courses">
-                            Music Production
+                            Music Productions
                         </HoveredLink>
                     </div>
                 </MenuItem>
