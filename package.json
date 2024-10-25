@@ -11,11 +11,13 @@
   "dependencies": {
     "@tabler/icons-react": "^3.20.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.11.9",
+    "framer-motion": "^11.11.10",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
+    "react-element-to-jsx-string": "^15.0.0",
     "simplex-noise": "^4.0.3",
+    "sonner": "^1.5.0",
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {

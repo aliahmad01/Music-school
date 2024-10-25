@@ -1,11 +1,11 @@
 import HeroSection from "@/components/HeroSection";
-import { MacbookScrollDemo } from "@/components/MacbookScrollDemo";
+import FeaturedCourses from "@/components/ FeaturedCourses";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.2]">
     <HeroSection />
-    <MacbookScrollDemo />
+    <FeaturedCourses />
     </main>
   );
 }
